@@ -1,0 +1,21 @@
+{
+  "name": "forum-monitor",
+  "version": "1.0.0",
+  "description": "Monitors security forums and communities for leaked credentials",
+  "main": "src/index.js",
+  "bin": {
+    "forum-monitor": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["security", "monitoring", "credentials", "forum"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "commander": "^11.1.0"
+  }
+}
