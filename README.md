@@ -1,5 +1,12 @@
 # forum-monitor
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/forum-monitor/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/forum-monitor/actions)
+![License](https://img.shields.io/github/license/yksanjo/forum-monitor)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/forum-monitor)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/forum-monitor)
+
 ## Detailed Description
 
 forum-monitor is maintained as an industry-grade software project with production-ready engineering practices.  
